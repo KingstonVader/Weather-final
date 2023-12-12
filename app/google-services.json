@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220670264009",
+    "project_id": "proyectofinal-bfb74",
+    "storage_bucket": "proyectofinal-bfb74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220670264009:android:7a3e73b2492d2c7473c318",
+        "android_client_info": {
+          "package_name": "com.LuisRamos.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5AGiVKK8dJ-pyhXYKSUahybSylsMtJs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

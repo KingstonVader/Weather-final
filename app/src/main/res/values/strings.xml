@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="weather">Weather</string>
+    <string name="country_iso_code">Codigo ISO del Pais:</string>
+    <string name="code">Code</string>
+    <string name="city_name">Nombre Ciudad:</string>
+    <string name="name">Nombre</string>
+    <string name="get">Arrojar</string>
+    <string name="temperature">Temperature</string>
+    <string name="current">Actual :</string>
+    <string name="minimum">Minima :</string>
+    <string name="maximum">Maxima :</string>
+    <string name="Fields_cannot_be_empty">Los campos no pueden estar vacios</string>
+    <string name="my_map_api_key">AIzaSyBJQ9IYUTTPRCHBSiAMhDy8ME_7_2b80us</string>
+
+</resources>
