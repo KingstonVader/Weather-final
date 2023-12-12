@@ -48,7 +48,7 @@ public class Registrar extends AppCompatActivity {
         
 
         auth = FirebaseAuth.getInstance();
-        Button button = findViewById(R.id.btnRegistrar);
+        Button button = findViewById(R.id.btnRegis);
         txtInputemail= findViewById(R.id.txtInputemail);
         txtInputpassword =findViewById(R.id.txtInputpassword);
 
